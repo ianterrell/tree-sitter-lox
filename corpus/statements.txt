@@ -1,0 +1,12 @@
+==================
+Simple class declaration
+==================
+
+class Foo {}
+
+---
+
+(source_file
+  (declaration
+    (classDecl
+      (identifier))))
